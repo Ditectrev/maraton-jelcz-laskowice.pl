@@ -1,0 +1,12 @@
+============
+Polskie znaki:            Kolory:
+  a - ± du¿e &#260          <font color=#0094fa> - niebieski z nag³ówka
+  c - æ                     <font color=#0094fa> - niebieski z nag³ówka
+  e - ê                     <font color=#cc0000> - wisniowy (czerwony)
+  l - ³ duze £
+  n - ñ
+  u zamk: ó
+  s - ¶  duze ¦           Spacja: &nbsp;&nbsp;
+  zi - ¼
+  rz - ¿
+============

@@ -21,8 +21,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="438">
-              <caret line="263" column="46" lean-forward="true" selection-start-line="263" selection-start-column="46" selection-end-line="263" selection-end-column="46" />
+            <state relative-caret-position="410">
+              <caret line="325" column="149" lean-forward="false" selection-start-line="325" selection-start-column="149" selection-end-line="325" selection-end-column="149" />
               <folding>
                 <element signature="n#style#0;n#img#0;n#td#0;n#tr#0;n#table#0;n#td#0;n#tr#0;n#table#0;n#center#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="e#11201#11207#0" expanded="true" />
@@ -92,6 +92,7 @@
     </navigator>
     <panes>
       <pane id="Scratches" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -106,7 +107,6 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -196,12 +196,13 @@
       <option name="presentableId" value="Default" />
       <updated>1488901444676</updated>
       <workItem from="1488901446020" duration="1284000" />
-      <workItem from="1488970007953" duration="289000" />
+      <workItem from="1488970007953" duration="472000" />
+      <workItem from="1489739385936" duration="87000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1573000" />
+    <option name="totallyTimeSpent" value="1843000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -256,6 +257,25 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="n#style#0;n#img#0;n#td#0;n#tr#0;n#table#0;n#td#0;n#tr#0;n#table#0;n#center#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="e#11201#11207#0" expanded="true" />
+            <element signature="e#11207#11213#0" expanded="true" />
+            <element signature="e#11213#11219#0" expanded="true" />
+            <element signature="e#11219#11225#0" expanded="true" />
+            <element signature="e#11225#11231#0" expanded="true" />
+            <element signature="e#11292#11298#0" expanded="true" />
+            <element signature="e#11353#11359#0" expanded="true" />
+            <element signature="e#11421#11427#0" expanded="true" />
+            <element signature="e#11470#11476#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/jelcz_napis-1.jpg">
       <provider selected="true" editor-type-id="images">
         <state />
@@ -268,8 +288,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="438">
-          <caret line="263" column="46" lean-forward="true" selection-start-line="263" selection-start-column="46" selection-end-line="263" selection-end-column="46" />
+        <state relative-caret-position="410">
+          <caret line="325" column="149" lean-forward="false" selection-start-line="325" selection-start-column="149" selection-end-line="325" selection-end-column="149" />
           <folding>
             <element signature="n#style#0;n#img#0;n#td#0;n#tr#0;n#table#0;n#td#0;n#tr#0;n#table#0;n#center#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="e#11201#11207#0" expanded="true" />
